@@ -81,13 +81,10 @@ on public Kaggle data.
 ### 📜 Certifications
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-Fundamentals-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Fundamentals"/>
-  <img src="https://img.shields.io/badge/Cisco-CCNAv7-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNAv7"/>
-  <img src="https://img.shields.io/badge/Apollo-Graph%20Developer%20Associate-311C87?style=for-the-badge&logo=apollographql&logoColor=white" alt="Apollo GraphQL"/>
-  <img src="https://img.shields.io/badge/Hashgraph-Developer-000000?style=for-the-badge&logo=hedera&logoColor=white" alt="Hashgraph Developer"/>
-  <img src="https://img.shields.io/badge/DeepLearning.AI-AI%20for%20Everyone-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="AI for Everyone"/>
+  <a href="certifications/aws-fundamentals.pdf"><img src="https://img.shields.io/badge/AWS-Fundamentals-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/></a>
+  <a href="certifications/cisco-ccnav7.pdf"><img src="https://img.shields.io/badge/Cisco-CCNAv7-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/></a>
+  <a href="certifications/apollo-graphql.pdf"><img src="https://img.shields.io/badge/Apollo-Graph%20Developer-311C87?style=for-the-badge&logo=apollographql&logoColor=white" alt="Apollo"/></a>
 </p>
----
 
 ### 🌍 Languages
 
