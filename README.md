@@ -22,7 +22,7 @@ taught me as much about how a business reads its numbers as about how to
 model them.
 
 - 🔭 Open to my first role as **Data Engineer / BI Developer**
-- 📫 Reach me at **idrisspfe@gmail.com**
+- 📫 Reach me at **idriss.jemli@esprit.tn**
 
 ---
 
