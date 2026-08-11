@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Idriss Jemli</h1>
-<h3 align="center">Data Engineer & Business Intelligence — Tunis, Tunisia</h3>
+<h3 align="center">Data Engineer & Business Intelligence </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/idriss-jemli-892068218"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
