@@ -95,3 +95,4 @@ University housing management system — REST API, role-based access control, JU
 - **Hashgraph Developer** — The Hashgraph Association
 - **AWS Fundamentals** — Amazon Web Services
 - **AI for Everyone** — DeepLearning.AI
+- **Introduction à la cybersécurité** — Cisco Networking Academy
