@@ -89,10 +89,10 @@ University housing management system — REST API, role-based access control, JU
 ---
 
 ## 📜 Certifications
-- **SQL Associate** — DataCamp (2026)
-- **CCNAv7: Switching, Routing & Wireless Essentials** — Cisco Networking Academy
-- **Graph Developer, Associate** — Apollo GraphQL
-- **Hashgraph Developer** — The Hashgraph Association
-- **AWS Fundamentals** — Amazon Web Services
+- **SQL Associate** — DataCamp (2026) · [Vérifier](https://www.datacamp.com/certificate/SQA0013105080684)
+- **CCNA: Switching, Routing & Wireless Essentials** — Cisco Networking Academy (2024) · [Vérifier](https://www.credly.com/badges/4a965bd8-b149-4aa7-afa2-f2b2be73a674/public_url)
+- **AWS Academy Graduate – Cloud Foundations** — Amazon Web Services (2024) · [Vérifier](https://www.credly.com/badges/507fcadd-5e66-470e-a947-3f85510354fb/public_url)
+- **Introduction à la cybersécurité** — Cisco Networking Academy (2026) · [Vérifier](https://www.credly.com/badges/2edcbc9b-c009-4f7c-90d3-825fb6c312e1/public_url)
+- **Graph Developer, Associate** — Apollo GraphQL (2025)
+- **Hashgraph Developer** — The Hashgraph Association (2025)
 - **AI for Everyone** — DeepLearning.AI
-- **Introduction à la cybersécurité** — Cisco Networking Academy
