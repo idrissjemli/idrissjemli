@@ -89,7 +89,7 @@ University housing management system — REST API, role-based access control, JU
 ---
 
 ## 📜 Certifications
-
+- **SQL Associate** — DataCamp (2026)
 - **CCNAv7: Switching, Routing & Wireless Essentials** — Cisco Networking Academy
 - **Graph Developer, Associate** — Apollo GraphQL
 - **Hashgraph Developer** — The Hashgraph Association
